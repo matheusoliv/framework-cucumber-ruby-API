@@ -1,0 +1,9 @@
+{	
+	"login_invalido":
+	[
+		{
+			"usuario": "testeinvalido@gmail.com",
+			"senha": "1234"
+		}
+	]
+}
